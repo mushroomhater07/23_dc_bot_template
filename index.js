@@ -12,7 +12,7 @@ const {
 } = require("discord.js");
 const { REST } = require("@discordjs/rest");
 const { config } = require("dotenv");
-//environment variable - hidden from the public replit by creating .env file  //dotenv
+//environment variable - hidden from the public replit by creating .env file
 // TOKEN=xxx bot bot secret
 // CLIENT=xxx bot client id on developer
 // GUILD=xxx channel id
